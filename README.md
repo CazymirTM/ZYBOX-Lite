@@ -1,2 +1,13 @@
-# ZYBOX-Lite
+# ZYBOX Lite
 ZYBOX Lite is a compact Windows utility built with .NET 8 WinForms, designed to give quick access to essential system tools and maintenance functions.
+
+__ZYBOX Lite acts as a modern “control center” for Windows power users. It centralizes the most-used administrative tools and network maintenance commands, saving time otherwise wasted digging through menus or typing commands manually.__
+
+## ⚙️ Features
+- Quick Launchers – Task Manager, Services, Device Manager, Disk Cleanup, Network Connections, System Info, and more.
+
+- Network Utilities – Flush DNS, Winsock reset, IP renew/release (auto-elevates with UAC).
+
+- System Actions – Restart Explorer instantly without logging out.
+
+- Status Console – Real-time log output for every action executed.
