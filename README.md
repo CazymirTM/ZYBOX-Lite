@@ -11,3 +11,5 @@ __ZYBOX Lite acts as a modern “control center” for Windows power users. It c
 - System Actions – Restart Explorer instantly without logging out.
 
 - Status Console – Real-time log output for every action executed.
+
+![UI of the program](UI.png)
